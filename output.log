@@ -1,0 +1,9 @@
+qt.qpa.fonts: Populating font family aliases took 122 ms. Replace uses of missing font family "Segoe UI" with one that exists to avoid this cost. 
+Starting application...
+QApplication created
+MainWindow created
+Window shown
+Traceback (most recent call last):
+  File "/Users/wanchatpookhuntod/CodePython/intership-coop/main.py", line 1017, in <module>
+    sys.exit(app.exec())
+KeyboardInterrupt

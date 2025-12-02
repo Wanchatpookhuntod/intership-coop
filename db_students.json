@@ -1,0 +1,531 @@
+[
+    {
+        "student_id": "65124440102",
+        "name": "นางสาวพรพรหมณ์ ศรีสิงห์",
+        "location": "โรบินสันไลฟ์สไตล์ลพบุรี",
+        "sector": "เอกชน",
+        "department": "Marketing",
+        "address": "-",
+        "scope": "graphic design , content creator , Video edit , Event , photography",
+        "progress": {
+            "report_2m": {
+                "status": true,
+                "grade": "B",
+                "note": "มีความสามารถในการทำงานได้ดี, มีความคิดสร้างสรรค์ที่แนะนำให้องค์กรทำในสิ่งที่แตกต่าง, มีความกล้า, ทนงาน, เสียสละ, สามารถทำงานเป็นทีม"
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440103",
+        "name": "นายณัฐชนน โนนดี",
+        "location": "กองร้อยผลิต​สิ่งโฆษณา​(ยิ้มกว้าง)​",
+        "sector": "ภาครัฐ",
+        "department": "ตอนโทรทัศน์ร้อยผลิตสิ่งโฆษณาพันปจว.",
+        "address": "-",
+        "scope": "content creator ถ่ายภาพ​ ถ่ายคลิป​ ตัดต่อวีดีโอ ผลิตสื่อ​ ออกแบบโปสเตอร์สินค้า​ ออกแบบสติกเกอร์​ อินโฟกราฟิก",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440104",
+        "name": "นางสาวพรพราหมณ์ ศรีสิงห์",
+        "location": "โรงพยาบาลพระนารายณ์มหาราช",
+        "sector": "ภาครัฐ",
+        "department": "หน่วยงานเวชนิทัศน์โสตทัศนศึกษา",
+        "address": "-",
+        "scope": "งานออกแบบกราฟิก งานถ่ายภาพ งานถ่ายวิดีโอ  งานผลิตสื่อการแพทย์  งานสนับสนุนด้านเทคนิค",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440105",
+        "name": "นางสาวพรรณปพร รัตนเจริญทรัพย์",
+        "location": "บริษัท วาร์บ เอ็นเทอร์ไพรซ์ จำกัด",
+        "sector": "เอกชน",
+        "department": "3D Design",
+        "address": "-",
+        "scope": "ขึ้น 3D โมเดลแบบผลิต, ออกแบบ พวกงานอีเวนต์ต่างๆ ,ออกแบบ graphic",
+        "progress": {
+            "report_2m": {
+                "status": true,
+                "grade": "A",
+                "note": "มี skill และการใช้  software ที่สูง, มีการทำงานเชิงรุก(ที่ทำงานชอบมาก), ปรับตัวได้ดี(ช่วงเริ่มงานต้องปรับตัวเยอะเกี่ยวกับ scope งาน), พร้อมสู่การทำงานจริง, เข้ามาช่วยแบ่งเบาภาระงานบริษัทได้จริง"
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440106",
+        "name": "นางสาวกัลยกร ฉิมมา",
+        "location": "กองร้อยผลิต​สิ่งโฆษณา​(ยิ้มกว้าง)​",
+        "sector": "ภาครัฐ",
+        "department": "ตอนโทรทัศน์ร้อยผลิตสิ่งโฆษณาพันปจว.",
+        "address": "-",
+        "scope": "content creator ถ่ายภาพ​ ถ่ายคลิป​ ตัดต่อวีดีโอ ผลิตสื่อ​ ออกแบบโปสเตอร์สินค้า​ ออกแบบสติกเกอร์​ อินโฟกราฟิก",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440107",
+        "name": "นางสาวนงนุช โสภา",
+        "location": "บริษัท แคสไพร์ จำกัด",
+        "sector": "เอกชน",
+        "department": "Marketing",
+        "address": "-",
+        "scope": "content creator , Video edit , Event",
+        "progress": {
+            "report_2m": {
+                "status": true,
+                "grade": "A",
+                "note": "มีศักยภาพและความสามารถการทำงานอยู่ระดับดีเกินคาด และมีความสามารถหลากหลาย (ที่ทำงานพอใจมาก), มีความตั้งใจการทำงานมาก, มีน้ำใจ, รับฟังขอเสนอแนะ, บริษัทมีการพูดคุยเรื่องอยากให้ นศ ทำงานต่อที่บริษัทแล้ว (เหมือนได้งาน), นักศึกษารับเงินเดือนสหกิจเดือนแรกแล้ว"
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440108",
+        "name": "นางสาวสราญรัศม์ อัครปภาวิเศษ",
+        "location": "บริษัท ออมนิ พาท จำกัด",
+        "sector": "เอกชน",
+        "department": "2D Artist",
+        "address": "-",
+        "scope": "Storyboard, design, webcomic, stoke image, video edit",
+        "progress": {
+            "report_2m": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440109",
+        "name": "นายพีระกานต์ มาแสวง",
+        "location": "กองประชาสัมพันธ์มหาวิทยาลัยราชภัฏเทพสตรี",
+        "sector": "ภาครัฐ",
+        "department": "ฝ่ายประชาสัมพันธ์",
+        "address": "-",
+        "scope": "ออกแบบโปสเตอร์ แบรนด์เนอร์ คลิปสั้น ถ่ายคลิป วีดีโอ",
+        "progress": {
+            "report_2m": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440110",
+        "name": "นายกันตวิชญ์ สังฆรัตน์",
+        "location": "สำนักงานทหารพัฒนา หน่วยบัญชาการทหารพัฒนา",
+        "sector": "ภาครัฐ",
+        "department": "ประชาสัมพันธ์และสารสนเทศ",
+        "address": "-",
+        "scope": "งานที่ทำ ตัดต่อ ออกแบบกราฟิก ออกแบบโปสเตอร์ ถ่ายภาพและวิดีโอ",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440111",
+        "name": "นางสาวบัณฑิตา แสงสว่าง",
+        "location": "บริษัท ออมนิ พาท จำกัด",
+        "sector": "เอกชน",
+        "department": "2D Artist",
+        "address": "-",
+        "scope": "Storyboard, design, webcomic, stoke image, video edit",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440112",
+        "name": "นางสาวสุภาวัลย์ นาคโพธิ์",
+        "location": "บริษัท โปรแพลนอุตสาหกรรม จำกัด",
+        "sector": "เอกชน",
+        "department": "Marketing",
+        "address": "-",
+        "scope": "Graphic desing , Content creator ,  Video edit , Digital marketing (Dm) , ส่ง order online , ดูแล Online platforms",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440113",
+        "name": "นางสาวนิชนิภา สร้อยเสนา",
+        "location": "เทศบาลตำบลแก่งเสือเต้น",
+        "sector": "ภาครัฐ",
+        "department": "ฝ่ายประชาสัมพันธ์",
+        "address": "-",
+        "scope": "ถ่ายภาพ/วิดีโอ ตัดต่อ ทำอินโฟกราฟิก ทำโปสเตอร์ ประชาสัมพันธ์เสียงตามสาย ออกแบบป้ายไวนิล",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440114",
+        "name": "นางสาวเสาวลักษณ์ ชูชั่ง",
+        "location": "โรงพยาบาลพระนารายณ์มหาราช",
+        "sector": "ภาครัฐ",
+        "department": "หน่วยงานเวชนิทัศน์โสตทัศนศึกษา",
+        "address": "-",
+        "scope": "งานออกแบบกราฟิก งานถ่ายภาพ งานถ่ายวิดีโอ  งานผลิตสื่อการแพทย์  งานสนับสนุนด้านเทคนิค",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440115",
+        "name": "นางสาวเสาวนิตย์ แสงชมภู",
+        "location": "เทศบาลตำบลแก่งเสือเต้น",
+        "sector": "ภาครัฐ",
+        "department": "ฝ่ายประชาสัมพันธ์",
+        "address": "-",
+        "scope": "ถ่ายภาพ/วิดีโอ ตัดต่อ ทำอินโฟกราฟิก ทำโปสเตอร์ ประชาสัมพันธ์เสียงตามสาย ออกแบบป้ายไวนิล",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440116",
+        "name": "นางสาวนันทิศา ชอบคุย",
+        "location": "บริษัท เดอะ ดั๊ก เจน จำกัด",
+        "sector": "เอกชน",
+        "department": "3D Animation",
+        "address": "-",
+        "scope": "งานออกแบบ 3D Model , Paint texture , Animation และออกงานอีเวนท์",
+        "progress": {
+            "report_2m": {
+                "status": true,
+                "grade": "C",
+                "note": "มีพื้นฐานทักษะและ software ที่ดี, มีความสามารถที่หลากหลาย(เมื่อเปรียบเทียบกับ ม. อื่น),  มีน้ำใจ, **มีปัญหา pipline (ยกตัวอย่างการใช้ polygon ในโมเดลเกม), นศ. กำลังปรับด้านการทำงานเป็นไปได้ด้วยดี"
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440117",
+        "name": "นายธีรภัทร มีกมล",
+        "location": "บริษัท อินฟินิทีฟ จำกัด",
+        "sector": "เอกชน",
+        "department": "กราฟฟิกแอนิเมเตอร์",
+        "address": "-",
+        "scope": "ทำการฟิก,ตัดต่อภาพนิ่ง,จัดวางองค์ประกอบหนังสือ,สร้างภาพเวกเตอร์,ทำโมเดล3มิติ,ทำแอนิเมชันอธิบายการประกอบ",
+        "progress": {
+            "report_2m": {
+                "status": true,
+                "grade": "A+",
+                "note": "ที่ทำงานชื่นชมมาก ๆ (ที่สถาบันผลิตนักศึกษาแบบนี้), มีการทำงานเชิงรุก, มีทักษะฝีมือ การใช้ software สูง, มีศักยภาพพร้อมเข้าสู่วัยทำงาน, เข้ามาแบ่งเบาภาระให้ที่ทำงานได้ดีมาก ๆ"
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440118",
+        "name": "นายสุภวัช พานทอง",
+        "location": "สำนักงานทหารพัฒนา หน่วยบัญชาการทหารพัฒนา",
+        "sector": "ภาครัฐ",
+        "department": "ประชาสัมพันธ์และสารสนเทศ",
+        "address": "-",
+        "scope": "งานที่ทำ ตัดต่อ ออกแบบกราฟิก ออกแบบโปสเตอร์ ถ่ายภาพและวิดีโอ",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440119",
+        "name": "นายภัครพล นาคสัมฤทธิ์",
+        "location": "โรงพยาบาลเบญจรมย์",
+        "sector": "เอกชน",
+        "department": "Marketing",
+        "address": "-",
+        "scope": "งาน/กราฟฟิกดีไซน์  ถ่ายรูป ตัดต่อ/วีดิโอ",
+        "progress": {
+            "report_2m": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440121",
+        "name": "นางสาวกฤษติยา จิตรโชติ",
+        "location": "บริษัท อสมท จำกัด (มหาชน)",
+        "sector": "รัฐวิสาหกิจ",
+        "department": "หน่วยงาน ฝ่ายสื่อสารภาพลักษณ์องค์กร",
+        "address": "-",
+        "scope": "ถ่ายภาพ ทำเบื้องหลัง ออกแบบกราฟฟิก ผลิตสื่อ ทำสื่อ ตัดต่อวีดีโอ",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440124",
+        "name": "นางสาวทิพรัตน์ เขียวแก้ว",
+        "location": "บริษัท สยามเมิร์กซ์ จำกัด",
+        "sector": "เอกชน",
+        "department": "Graphics",
+        "address": "-",
+        "scope": "ออกแบบกราฟิก ,คิดเนื้อเรื่อง,ตัดต่อ,ดูแลเพจค่อยลงคลิป",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440126",
+        "name": "นายทวีรภัทร์ อุดชาชน",
+        "location": "โรงพยาบาลเบญจรมย์",
+        "sector": "เอกชน",
+        "department": "Marketing",
+        "address": "-",
+        "scope": "งาน/กราฟฟิกดีไซน์  ถ่ายรูป ตัดต่อ/วีดิโอ",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440128",
+        "name": "นายพลากร ตุ้นสกุล",
+        "location": "โรบินสันไลฟ์สไตล์ลพบุรี",
+        "sector": "เอกชน",
+        "department": "Marketing",
+        "address": "-",
+        "scope": "graphic design , content creator , Video edit , Event , photography",
+        "progress": {
+            "report_2m": {
+                "status": true,
+                "grade": "B",
+                "note": "มีความสามารถในการทำงานได้ดี, มีความคิดสร้างสรรค์ที่แนะนำให้องค์กรทำในสิ่งที่แตกต่าง, มีความกล้า, ทนงาน, เสียสละ, สามารถทำงานเป็นทีม"
+            },
+            "supervision_1": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "supervision_2": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "project": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "report_send": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            },
+            "final_present": {
+                "status": false,
+                "grade": "-",
+                "note": ""
+            }
+        }
+    },
+    {
+        "student_id": "65124440129",
+        "name": "นางสาวกีรติกา ธรรมเจริญ",
+        "location": "บริษัท เดอะ ดั๊ก เจน จำกัด",
+        "sector": "เอกชน",
+        "department": "3D Animation",
+        "address": "-",
+        "scope": "งานออกแบบ 3D Model , Paint texture , Animation และออกงานอีเวนท์",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440130",
+        "name": "นายธนพล กล้าหาญ",
+        "location": "บริษัท อสมท จำกัด (มหาชน)",
+        "sector": "รัฐวิสาหกิจ",
+        "department": "หน่วยงาน ฝ่ายสื่อสารภาพลักษณ์องค์กร",
+        "address": "-",
+        "scope": "ถ่ายภาพ ทำเบื้องหลัง ออกแบบกราฟฟิก ผลิตสื่อ ทำสื่อ ตัดต่อวีดีโอ",
+        "progress": {}
+    },
+    {
+        "student_id": "65124440131",
+        "name": "นายกษิดิศ สืบสุข",
+        "location": "เทศบาลตำบลท่าศาลา",
+        "sector": "ภาครัฐ",
+        "department": "ฝ่ายประชาสัมพันธ์",
+        "address": "-",
+        "scope": "ถ่ายรูป/วิดีโอ/ตัดต่อ/ออกแบบกราฟิก",
+        "progress": {}
+    }
+]
